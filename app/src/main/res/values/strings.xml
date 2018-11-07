@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Application personnelle</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="contact">Contact</string>
+    <string name="logo">Logo personnel</string>
+    <string name="logo_one">Logo</string>
+</resources>
